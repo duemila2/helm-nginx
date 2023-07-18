@@ -1,0 +1,2 @@
+helm:
+  chart: "oci://ghcr.io/nginxinc/charts/nginx-ingress"
